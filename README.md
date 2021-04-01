@@ -2,7 +2,7 @@
 
 A new Flutter application. Flutter Profile Test Project!!!
 
-![be4a96fb2f920e78b54ef1791f20c7c](https://user-images.githubusercontent.com/26935210/113253415-cb47f480-92f7-11eb-861d-aedcc68595fd.jpg)
+<img src="https://user-images.githubusercontent.com/26935210/113253415-cb47f480-92f7-11eb-861d-aedcc68595fd.jpg" width="200" height="400" />
 
 
 
